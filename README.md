@@ -1,5 +1,4 @@
-Clash|Surge|surboard|quanx Rules
-subconverter
+remove
 🔞
 🌐
 𝐀𝐃
