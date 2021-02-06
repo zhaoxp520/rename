@@ -1,7 +1,10 @@
 #香港
 DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub1alt.emby.wtf
 DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub2alt.emby.wtf
 DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub3alt.emby.wtf
 DOMAIN-SUFFIX,pub1back1.emby.wtf
 DOMAIN-SUFFIX,pub1back2.emby.wtf
 DOMAIN-SUFFIX,pub1back3.emby.wtf
