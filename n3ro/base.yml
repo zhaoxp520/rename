@@ -10,7 +10,5 @@ dns:
   listen: '0.0.0.0:5353'
   enhanced-mode: redir-host
   nameserver:
-    - '119.29.29.29'
     - 'https://223.5.5.5/dns-query'
     - 'https://doh.pub/dns-query'
-    - 'https://cloudflare-dns.com/dns-query'
